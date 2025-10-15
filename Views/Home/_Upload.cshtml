@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["Title"] = "upload";
+}
+
+<div id="error-display" class="text-center alert-error" style="display: none"></div>
+
+<div class="text-center alert-info">
+    <p>Choose mp4 files to upload to the video catalogue.</p>
+</div>
+
+<form id="videoUploadForm" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label for="videoFiles">Select videos:</label>
+        <input type="file" name="videoFiles" id="videoFiles" multiple accept="video/*" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Upload</button>
+</form>
+

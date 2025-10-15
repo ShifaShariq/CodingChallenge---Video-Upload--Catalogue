@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CodingChallenge - Video Upload & Catalogue/1.0.0": {
+        "runtime": {
+          "CodingChallenge - Video Upload & Catalogue.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CodingChallenge - Video Upload & Catalogue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

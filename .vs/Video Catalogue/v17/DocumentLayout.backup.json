@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\itsSh\\source\\repos\\CodingChallenge - Video Upload \u0026 Catalogue\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52CB0290-57E5-4281-BFD0-E80BF21709A2}|Video Catalogue.csproj|c:\\users\\itssh\\source\\repos\\codingchallenge - video upload \u0026 catalogue\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{52CB0290-57E5-4281-BFD0-E80BF21709A2}|Video Catalogue.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CB0290-57E5-4281-BFD0-E80BF21709A2}|Video Catalogue.csproj|c:\\users\\itssh\\source\\repos\\codingchallenge - video upload \u0026 catalogue\\views\\home\\_upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52CB0290-57E5-4281-BFD0-E80BF21709A2}|Video Catalogue.csproj|solutionrelative:views\\home\\_upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CB0290-57E5-4281-BFD0-E80BF21709A2}|Video Catalogue.csproj|c:\\users\\itssh\\source\\repos\\codingchallenge - video upload \u0026 catalogue\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{52CB0290-57E5-4281-BFD0-E80BF21709A2}|Video Catalogue.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CB0290-57E5-4281-BFD0-E80BF21709A2}|Video Catalogue.csproj|c:\\users\\itssh\\source\\repos\\codingchallenge - video upload \u0026 catalogue\\views\\home\\_catalogue.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52CB0290-57E5-4281-BFD0-E80BF21709A2}|Video Catalogue.csproj|solutionrelative:views\\home\\_catalogue.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CB0290-57E5-4281-BFD0-E80BF21709A2}|Video Catalogue.csproj|c:\\users\\itssh\\source\\repos\\codingchallenge - video upload \u0026 catalogue\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52CB0290-57E5-4281-BFD0-E80BF21709A2}|Video Catalogue.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CB0290-57E5-4281-BFD0-E80BF21709A2}|Video Catalogue.csproj|c:\\users\\itssh\\source\\repos\\codingchallenge - video upload \u0026 catalogue\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52CB0290-57E5-4281-BFD0-E80BF21709A2}|Video Catalogue.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CB0290-57E5-4281-BFD0-E80BF21709A2}|Video Catalogue.csproj|c:\\users\\itssh\\source\\repos\\codingchallenge - video upload \u0026 catalogue\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52CB0290-57E5-4281-BFD0-E80BF21709A2}|Video Catalogue.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CB0290-57E5-4281-BFD0-E80BF21709A2}|Video Catalogue.csproj|c:\\users\\itssh\\source\\repos\\codingchallenge - video upload \u0026 catalogue\\services\\videoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52CB0290-57E5-4281-BFD0-E80BF21709A2}|Video Catalogue.csproj|solutionrelative:services\\videoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CB0290-57E5-4281-BFD0-E80BF21709A2}|Video Catalogue.csproj|c:\\users\\itssh\\source\\repos\\codingchallenge - video upload \u0026 catalogue\\services\\ivideoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52CB0290-57E5-4281-BFD0-E80BF21709A2}|Video Catalogue.csproj|solutionrelative:services\\ivideoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CB0290-57E5-4281-BFD0-E80BF21709A2}|Video Catalogue.csproj|c:\\users\\itssh\\source\\repos\\codingchallenge - video upload \u0026 catalogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52CB0290-57E5-4281-BFD0-E80BF21709A2}|Video Catalogue.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CB0290-57E5-4281-BFD0-E80BF21709A2}|Video Catalogue.csproj|c:\\users\\itssh\\source\\repos\\codingchallenge - video upload \u0026 catalogue\\models\\videodetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52CB0290-57E5-4281-BFD0-E80BF21709A2}|Video Catalogue.csproj|solutionrelative:models\\videodetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CB0290-57E5-4281-BFD0-E80BF21709A2}|Video Catalogue.csproj|c:\\users\\itssh\\source\\repos\\codingchallenge - video upload \u0026 catalogue\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52CB0290-57E5-4281-BFD0-E80BF21709A2}|Video Catalogue.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CB0290-57E5-4281-BFD0-E80BF21709A2}|Video Catalogue.csproj|c:\\users\\itssh\\source\\repos\\codingchallenge - video upload \u0026 catalogue\\controllers\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52CB0290-57E5-4281-BFD0-E80BF21709A2}|Video Catalogue.csproj|solutionrelative:controllers\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Catalogue.cshtml",
+              "DocumentMoniker": "C:\\Users\\itsSh\\source\\repos\\CodingChallenge - Video Upload \u0026 Catalogue\\Views\\Home\\_Catalogue.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\_Catalogue.cshtml",
+              "ToolTip": "C:\\Users\\itsSh\\source\\repos\\CodingChallenge - Video Upload \u0026 Catalogue\\Views\\Home\\_Catalogue.cshtml",
+              "RelativeToolTip": "Views\\Home\\_Catalogue.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-12T04:29:37.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\itsSh\\source\\repos\\CodingChallenge - Video Upload \u0026 Catalogue\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\itsSh\\source\\repos\\CodingChallenge - Video Upload \u0026 Catalogue\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-12T02:42:31.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\itsSh\\source\\repos\\CodingChallenge - Video Upload \u0026 Catalogue\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\itsSh\\source\\repos\\CodingChallenge - Video Upload \u0026 Catalogue\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAANkAAAAAAAAAAAAAAOsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-13T04:33:03.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\itsSh\\source\\repos\\CodingChallenge - Video Upload \u0026 Catalogue\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\itsSh\\source\\repos\\CodingChallenge - Video Upload \u0026 Catalogue\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T03:48:27.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Upload.cshtml",
+              "DocumentMoniker": "C:\\Users\\itsSh\\source\\repos\\CodingChallenge - Video Upload \u0026 Catalogue\\Views\\Home\\_Upload.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\_Upload.cshtml",
+              "ToolTip": "C:\\Users\\itsSh\\source\\repos\\CodingChallenge - Video Upload \u0026 Catalogue\\Views\\Home\\_Upload.cshtml",
+              "RelativeToolTip": "Views\\Home\\_Upload.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-11T16:24:51.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\itsSh\\source\\repos\\CodingChallenge - Video Upload \u0026 Catalogue\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\itsSh\\source\\repos\\CodingChallenge - Video Upload \u0026 Catalogue\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwDAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-12T01:02:17.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VideoDetailModel.cs",
+              "DocumentMoniker": "C:\\Users\\itsSh\\source\\repos\\CodingChallenge - Video Upload \u0026 Catalogue\\Models\\VideoDetailModel.cs",
+              "RelativeDocumentMoniker": "Models\\VideoDetailModel.cs",
+              "ToolTip": "C:\\Users\\itsSh\\source\\repos\\CodingChallenge - Video Upload \u0026 Catalogue\\Models\\VideoDetailModel.cs",
+              "RelativeToolTip": "Models\\VideoDetailModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T14:06:55.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\itsSh\\source\\repos\\CodingChallenge - Video Upload \u0026 Catalogue\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\itsSh\\source\\repos\\CodingChallenge - Video Upload \u0026 Catalogue\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T04:54:15.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\itsSh\\source\\repos\\CodingChallenge - Video Upload \u0026 Catalogue\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\itsSh\\source\\repos\\CodingChallenge - Video Upload \u0026 Catalogue\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T02:38:36.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VideoController.cs",
+              "DocumentMoniker": "C:\\Users\\itsSh\\source\\repos\\CodingChallenge - Video Upload \u0026 Catalogue\\Controllers\\VideoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VideoController.cs",
+              "ToolTip": "C:\\Users\\itsSh\\source\\repos\\CodingChallenge - Video Upload \u0026 Catalogue\\Controllers\\VideoController.cs",
+              "RelativeToolTip": "Controllers\\VideoController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T11:57:48.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VideoService.cs",
+              "DocumentMoniker": "C:\\Users\\itsSh\\source\\repos\\CodingChallenge - Video Upload \u0026 Catalogue\\Services\\VideoService.cs",
+              "RelativeDocumentMoniker": "Services\\VideoService.cs",
+              "ToolTip": "C:\\Users\\itsSh\\source\\repos\\CodingChallenge - Video Upload \u0026 Catalogue\\Services\\VideoService.cs",
+              "RelativeToolTip": "Services\\VideoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T02:52:20.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IVideoService.cs",
+              "DocumentMoniker": "C:\\Users\\itsSh\\source\\repos\\CodingChallenge - Video Upload \u0026 Catalogue\\Services\\IVideoService.cs",
+              "RelativeDocumentMoniker": "Services\\IVideoService.cs",
+              "ToolTip": "C:\\Users\\itsSh\\source\\repos\\CodingChallenge - Video Upload \u0026 Catalogue\\Services\\IVideoService.cs",
+              "RelativeToolTip": "Services\\IVideoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T02:52:36.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\itsSh\\source\\repos\\CodingChallenge - Video Upload \u0026 Catalogue\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\itsSh\\source\\repos\\CodingChallenge - Video Upload \u0026 Catalogue\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T14:06:24.24Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

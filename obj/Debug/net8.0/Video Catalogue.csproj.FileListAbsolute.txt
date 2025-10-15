@@ -1,0 +1,33 @@
+C:\Users\itsSh\source\repos\CodingChallenge - Video Upload & Catalogue\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\itsSh\source\repos\CodingChallenge - Video Upload & Catalogue\bin\Debug\net8.0\appsettings.json
+C:\Users\itsSh\source\repos\CodingChallenge - Video Upload & Catalogue\bin\Debug\net8.0\Video Catalogue.staticwebassets.runtime.json
+C:\Users\itsSh\source\repos\CodingChallenge - Video Upload & Catalogue\bin\Debug\net8.0\Video Catalogue.staticwebassets.endpoints.json
+C:\Users\itsSh\source\repos\CodingChallenge - Video Upload & Catalogue\bin\Debug\net8.0\Video Catalogue.exe
+C:\Users\itsSh\source\repos\CodingChallenge - Video Upload & Catalogue\bin\Debug\net8.0\Video Catalogue.deps.json
+C:\Users\itsSh\source\repos\CodingChallenge - Video Upload & Catalogue\bin\Debug\net8.0\Video Catalogue.runtimeconfig.json
+C:\Users\itsSh\source\repos\CodingChallenge - Video Upload & Catalogue\bin\Debug\net8.0\Video Catalogue.dll
+C:\Users\itsSh\source\repos\CodingChallenge - Video Upload & Catalogue\bin\Debug\net8.0\Video Catalogue.pdb
+C:\Users\itsSh\source\repos\CodingChallenge - Video Upload & Catalogue\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\itsSh\source\repos\CodingChallenge - Video Upload & Catalogue\obj\Debug\net8.0\Video Catalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsSh\source\repos\CodingChallenge - Video Upload & Catalogue\obj\Debug\net8.0\Video Catalogue.AssemblyInfoInputs.cache
+C:\Users\itsSh\source\repos\CodingChallenge - Video Upload & Catalogue\obj\Debug\net8.0\Video Catalogue.AssemblyInfo.cs
+C:\Users\itsSh\source\repos\CodingChallenge - Video Upload & Catalogue\obj\Debug\net8.0\Video Catalogue.csproj.CoreCompileInputs.cache
+C:\Users\itsSh\source\repos\CodingChallenge - Video Upload & Catalogue\obj\Debug\net8.0\Video Catalogue.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\itsSh\source\repos\CodingChallenge - Video Upload & Catalogue\obj\Debug\net8.0\Video Catalogue.RazorAssemblyInfo.cache
+C:\Users\itsSh\source\repos\CodingChallenge - Video Upload & Catalogue\obj\Debug\net8.0\Video Catalogue.RazorAssemblyInfo.cs
+C:\Users\itsSh\source\repos\CodingChallenge - Video Upload & Catalogue\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\itsSh\source\repos\CodingChallenge - Video Upload & Catalogue\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\itsSh\source\repos\CodingChallenge - Video Upload & Catalogue\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\itsSh\source\repos\CodingChallenge - Video Upload & Catalogue\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\itsSh\source\repos\CodingChallenge - Video Upload & Catalogue\obj\Debug\net8.0\scopedcss\bundle\Video Catalogue.styles.css
+C:\Users\itsSh\source\repos\CodingChallenge - Video Upload & Catalogue\obj\Debug\net8.0\scopedcss\projectbundle\Video Catalogue.bundle.scp.css
+C:\Users\itsSh\source\repos\CodingChallenge - Video Upload & Catalogue\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\itsSh\source\repos\CodingChallenge - Video Upload & Catalogue\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\itsSh\source\repos\CodingChallenge - Video Upload & Catalogue\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\itsSh\source\repos\CodingChallenge - Video Upload & Catalogue\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\itsSh\source\repos\CodingChallenge - Video Upload & Catalogue\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\itsSh\source\repos\CodingChallenge - Video Upload & Catalogue\obj\Debug\net8.0\Video Catalogue.dll
+C:\Users\itsSh\source\repos\CodingChallenge - Video Upload & Catalogue\obj\Debug\net8.0\refint\Video Catalogue.dll
+C:\Users\itsSh\source\repos\CodingChallenge - Video Upload & Catalogue\obj\Debug\net8.0\Video Catalogue.pdb
+C:\Users\itsSh\source\repos\CodingChallenge - Video Upload & Catalogue\obj\Debug\net8.0\Video Catalogue.genruntimeconfig.cache
+C:\Users\itsSh\source\repos\CodingChallenge - Video Upload & Catalogue\obj\Debug\net8.0\ref\Video Catalogue.dll
